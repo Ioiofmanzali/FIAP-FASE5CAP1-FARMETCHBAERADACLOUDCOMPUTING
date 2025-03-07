@@ -1,1 +1,1 @@
-Atividade em grupo para o capítulo 1 da Fase 5 do Curso de IA da FIAP.
+Atividade do Grupo 15 para o Capítulo 1 da Fase 5 do Curso de IA da FIAP.
