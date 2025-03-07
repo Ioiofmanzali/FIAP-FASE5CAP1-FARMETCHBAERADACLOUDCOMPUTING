@@ -8,7 +8,7 @@
 
 # Sistema de Coleta e Comunicação de Dados Usando ESP32 Integrado ao Wi-Fi
 
-## Nome do grupo - Grupo 08
+## Nome do grupo - Grupo 15
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/iolanda-helena-fabbrini-manzali-de-oliveira-14ab8ab0">Iolanda Helena Fabbrini Manzali de Oliveira</a>
