@@ -32,7 +32,6 @@ A Entrega 1 foca na análise de dados agrícolas usando ML supervionado e não s
 ## 💻 Tecnologias utilizadas
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54))](#)
-
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](#)
 
 ## 📁 Estrutura de pastas
