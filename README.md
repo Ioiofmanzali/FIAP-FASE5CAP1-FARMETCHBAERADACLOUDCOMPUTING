@@ -43,10 +43,8 @@ A Entrega 1 foca na análise de dados agrícolas usando ML supervionado e não s
 
 ## 🔧 Como executar o Projeto
   1. Acessar o notebook atraves do link [https://colab.research.google.com/drive/1jDRzZgeCfp0bCjqXdFwOb4CKlnL-VV5Z?usp=sharing.]
-  2. Selecione um ambiente de execução para executar o código.
-  ![gcolab](https://github.com/Ioiofmanzali/FIAP-FASE5CAP1-FARMETCHBAERADACLOUDCOMPUTING/blob/main/Ir_Alem_1/assets/gcolab.jpeg)
-  
-  * Observação: link do notebook com acesso restrito a leitura do código
+  2. Selecione no  campo 'Ambiente de execução" o modo para executar o código.
+    * Observação: link do notebook com acesso restrito a leitura do código
 
 ## 🎥 Demonstração
 
