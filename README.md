@@ -7,7 +7,7 @@
 <br>
 
 # PROJETO FASE 5: MACHINE LEARNING NA CABEÇA
- ![mlnacabeca](https://github.com/user-attachments/assets/815e3951-ddec-4284-af49-368e83202b44)
+ ![mlnacabeca](https://github.com/Ioiofmanzali/FIAP-FASE5CAP1-FARMETCHBAERADACLOUDCOMPUTING/blob/main/Ir_Alem_1/assets/mlbacabeca.jpeg)
 
 ## Grupo 15
 
@@ -32,6 +32,7 @@ A Entrega 1 foca na análise de dados agrícolas usando ML supervionado e não s
 ## 💻 Tecnologias utilizadas
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ## 📁 Estrutura de pastas
