@@ -48,7 +48,7 @@ A Entrega 1 foca na análise de dados agrícolas usando ML supervionado e não s
 
 ## 🎥 Demonstração
 
-Link para vídeo demonstrativo [https://youtu.be/Q5CVTFYaELo]
+Link para vídeo demonstrativo  [https://youtu.be/Q5CVTFYaELo]
 
 ## 📋 Licença
 
