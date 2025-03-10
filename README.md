@@ -66,14 +66,19 @@ A Entrega 2 conciste no calculo de custutos para a implementação de uma maquin
 ## 📁 Estrutura de pastas
 
 - **/docs** - Documentação do projeto
-- **/src** - Código-fonte e scripts
 - **/assets** - Imagens e logo
 - **README.md** - Descrição da entrega
 
 ## 🔧 Como executar o Projeto
-  1. Acessar o notebook atraves do link [https://colab.research.google.com/drive/1jDRzZgeCfp0bCjqXdFwOb4CKlnL-VV5Z?usp=sharing.]
-  2. Selecione no  campo 'Ambiente de execução" o modo para executar o código.
-    * Observação: link do notebook com acesso restrito a leitura do código
+  1. Acessar  a AWS Pricing Cauculeto através do link [https://calculator.aws/#/addService]
+  2. Selecione as configurações necessárias para as regiões São Paulo (BR) e Virginia do Norte (EUA), conforme a descrição da atividade
+     Componetes:
+                 - 2 vCPUs
+                 - 1 GiB de memória
+                 - Até 5 Gigabit de rede
+                 - 50 GB de armazenamento (HD)
+  3. Salvar dos dados e realizar as devidas análises dos valores 
+
 
 ## 🎥 Demonstração
 
@@ -84,7 +89,8 @@ Link para vídeo demonstrativo: ainda falta fazer
 Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE no repositório.
 
 
-
+---
+# Ir Além 1 
 
 ## 📜 Descrição
 
