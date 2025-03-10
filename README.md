@@ -42,7 +42,7 @@ A Entrega 1 foca na análise de dados agrícolas usando ML supervionado e não s
 - **README.md** - Descrição da entrega
 
 ## 🔧 Como executar o Projeto
-  1. Acessar o notebook atraves do link [https://colab.research.google.com/drive/1jDRzZgeCfp0bCjqXdFwOb4CKlnL-VV5Z?usp=sharing.]
+  1. Acessar o notebook atraves do link [https://colab.research.google.com/drive/1mGIY150CzsRO05xwk_pjD1t94CauImdd?usp=sharing]
   2. Selecione no  campo 'Ambiente de execução" o modo para executar o código.
     * Observação: link do notebook com acesso restrito a leitura do código
 
