@@ -56,8 +56,10 @@ Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o
 
 ---
 # ENTREGA 2 
+
 ## 📜 Descrição
-A Entrega 2 conciste no calculo de custutos para a implementação de uma maquina linux cotadas em 2 regiões, São Paulo(BR) e Virgina do Norte (EUA)
+
+A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custos de uma instância Linux On-Demand (100%), comparando os preços entre as regiões de São Paulo (BR) e Virgínia do Norte (EUA) e identificando a opção mais econômica, considerando que a máquina será responsável por hospedar uma API que recebe dados de sensores e executa um modelo de Machine Learning relacionado à Entrega 1.
 
 ## 💻 Tecnologias utilizadas
 
