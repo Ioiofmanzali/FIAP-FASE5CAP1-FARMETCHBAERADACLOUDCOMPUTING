@@ -64,7 +64,7 @@ A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custo
 
 ## 💻 Tecnologias utilizadas
 
-
+https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white
 
 ## 📁 Estrutura de pastas
 
