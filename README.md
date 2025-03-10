@@ -55,7 +55,7 @@ Link para vídeo demonstrativo: ainda falta fazer
 Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE no repositório.
 
 ---
-# Entrega 2 
+# ENTREGA 2 
 ## 📜 Descrição
 A Entrega 2 conciste no calculo de custutos para a implementação de uma maquina linux cotadas em 2 regiões, São Paulo(BR) e Virgina do Norte (EUA)
 
@@ -90,7 +90,7 @@ Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o
 
 
 ---
-# Ir Além 1 
+# IR ALÉM 1 
 
 ## 📜 Descrição
 
