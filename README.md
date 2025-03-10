@@ -55,6 +55,34 @@ Link para vídeo demonstrativo: ainda falta fazer
 Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE no repositório.
 
 ---
+# Entrega 2 
+## 📜 Descrição
+A Entrega 2 conciste no calculo de custutos para a implementação de uma maquina linux cotadas em 2 regiões, São Paulo(BR) e Virgina do Norte (EUA)
+
+## 💻 Tecnologias utilizadas
+
+
+
+## 📁 Estrutura de pastas
+
+- **/docs** - Documentação do projeto
+- **/src** - Código-fonte e scripts
+- **/assets** - Imagens e logo
+- **README.md** - Descrição da entrega
+
+## 🔧 Como executar o Projeto
+  1. Acessar o notebook atraves do link [https://colab.research.google.com/drive/1jDRzZgeCfp0bCjqXdFwOb4CKlnL-VV5Z?usp=sharing.]
+  2. Selecione no  campo 'Ambiente de execução" o modo para executar o código.
+    * Observação: link do notebook com acesso restrito a leitura do código
+
+## 🎥 Demonstração
+
+Link para vídeo demonstrativo: ainda falta fazer
+
+## 📋 Licença
+
+Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE no repositório.
+
 
 
 
