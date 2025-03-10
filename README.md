@@ -63,7 +63,7 @@ Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o
 A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custos de uma instância Linux On-Demand (100%), comparando os preços entre as regiões de São Paulo (BR) e Virgínia do Norte (EUA) e identificando a opção mais econômica, considerando que a máquina será responsável por hospedar uma API que recebe dados de sensores e executa um modelo de Machine Learning relacionado à Entrega 1.
 
 ## 💻 Tecnologias utilizadas
-[!](Amazon_AWS)[https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white](#)
+[!][Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)(#).
 
 ## 📁 Estrutura de pastas
 
