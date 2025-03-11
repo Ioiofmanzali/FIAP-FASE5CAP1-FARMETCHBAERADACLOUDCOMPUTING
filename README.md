@@ -76,7 +76,7 @@ A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custo
   2. Selecione as configurações necessárias para as regiões São Paulo (BR) e Virginia do Norte (EUA), conforme a descrição da atividade
      ### Componentes:
      
-                 *  2 vCPUs
+                 *  2 CPUs
                  *  1 GiB de memória
                  *  Até 5 Gigabit de rede
                  *  50 GB de armazenamento (HD)
