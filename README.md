@@ -135,7 +135,7 @@ O projeto "Sistema de Coleta e Comunicação de Dados Usando ESP32 Integrado ao 
   4. Também é possível ler os dados gravados através da API REST.
 
 ## 🎥 Demonstração
-[
+
 Link para vídeo demonstrativo: [https://youtu.be/uFbGttY-dUg](#)
 
 ## 📋 Licença
