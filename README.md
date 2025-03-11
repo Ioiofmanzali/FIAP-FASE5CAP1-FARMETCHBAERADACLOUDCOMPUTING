@@ -136,7 +136,7 @@ O projeto "Sistema de Coleta e Comunicação de Dados Usando ESP32 Integrado ao 
 
 ## 🎥 Demonstração
 
-Link para vídeo demonstrativo: [https://youtu.be/uFbGttY-dUg](#)
+Link para vídeo demonstrativo: [https://youtu.be/uFbGttY-dUg]
 
 ## 📋 Licença
 
