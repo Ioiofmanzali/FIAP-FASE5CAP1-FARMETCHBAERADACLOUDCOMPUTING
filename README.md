@@ -1,7 +1,7 @@
 # FIAP - Faculdade de Informática e Administração Paulista
 
 <p align="center">
-<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Administração Paulista" border="0" width=40% height=40%></a>
+<a href= "https://www.fiap.com.br/"><img src="https://github.com/Ioiofmanzali/FIAP-FASE5CAP1-FARMETCHBAERADACLOUDCOMPUTING/blob/main/Ir_Alem_1/assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Administração Paulista" border="0" width=40% height=40%></a>
 </p>
 
 <br>
