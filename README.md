@@ -74,11 +74,13 @@ A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custo
 ## 🔧 Como executar o Projeto
   1. Acessar  a AWS Pricing Cauculeto através do link [https://calculator.aws/#/addService]
   2. Selecione as configurações necessárias para as regiões São Paulo (BR) e Virginia do Norte (EUA), conforme a descrição da atividade
-     Componetes:
-                 - 2 vCPUs
-                 - 1 GiB de memória
-                 - Até 5 Gigabit de rede
-                 - 50 GB de armazenamento (HD)
+     ### Componentes:
+     
+                 *  2 vCPUs
+                 *  1 GiB de memória
+                 *  Até 5 Gigabit de rede
+                 *  50 GB de armazenamento (HD)
+     
   3. Salvar dos dados e realizar as devidas análises dos valores 
 
 
