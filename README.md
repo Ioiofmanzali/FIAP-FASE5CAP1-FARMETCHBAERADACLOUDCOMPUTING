@@ -1,13 +1,13 @@
 # FIAP - Faculdade de Informática e Administração Paulista
 
 <p align="center">
-<a href= "https://www.fiap.com.br/"><img src="https://github.com/Ioiofmanzali/FIAP-FASE5CAP1-FARMETCHBAERADACLOUDCOMPUTING/blob/main/Ir_Alem_1/assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Administração Paulista" border="0" width=40% height=40%></a>
+<a href= "https://www.fiap.com.br/"><img src="./assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Administração Paulista" border="0" width=40% height=40%></a>
 </p>
 
 <br>
 
 # PROJETO FASE 5: MACHINE LEARNING NA CABEÇA
- ![mlnacabeca](https://github.com/Ioiofmanzali/FIAP-FASE5CAP1-FARMETCHBAERADACLOUDCOMPUTING/blob/main/Ir_Alem_1/assets/mlbacabeca.jpeg)
+ ![mlnacabeca](./assets/mlbacabeca.jpeg)
 
 ## Grupo 15
 
@@ -36,10 +36,9 @@ A Entrega 1 foca na análise de dados agrícolas usando ML supervionado e não s
 
 ## 📁 Estrutura de pastas
 
-- **/docs** - Documentação do projeto
-- **/src** - Código-fonte e scripts
-- **/assets** - Imagens e logo
-- **README.md** - Descrição da entrega
+- **/docs/entrega_1** - Documentação do projeto
+- **/src/entrega_1** - Código-fonte e scripts
+- **/assets/entrega_1** - Base de dados
 
 ## 🔧 Como executar o Projeto
   1. Acessar o notebook atraves do link [https://colab.research.google.com/drive/1mGIY150CzsRO05xwk_pjD1t94CauImdd?usp=sharing]
@@ -49,7 +48,7 @@ A Entrega 1 foca na análise de dados agrícolas usando ML supervionado e não s
 
 ## 🎥 Demonstração
 
-Link para vídeo demonstrativo  [https://youtu.be/Q5CVTFYaELo]
+[Link para vídeo demonstrativo no Youtube](https://youtu.be/Q5CVTFYaELo)
 
 ## 📋 Licença
 
@@ -67,9 +66,8 @@ A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custo
 
 ## 📁 Estrutura de pastas
 
-- **/docs** - Documentação do projeto
-- **/assets** - Imagens e logo
-- **README.md** - Descrição da entrega
+- **/docs/entrega_2** - Documentação do projeto
+- **/assets/entrega_2** - Relatórios de Preços Orçados
 
 ## 🔧 Como executar o Projeto
   1. Acessar  a AWS Pricing Cauculeto através do link [https://calculator.aws/#/addService]
@@ -86,7 +84,7 @@ A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custo
 
 ## 🎥 Demonstração
 
-Link para vídeo demonstrativo: ainda falta fazer
+*[TODO: Adicionar link para vídeo demonstrativo no Youtube]*
 
 ## 📋 Licença
 
@@ -125,10 +123,9 @@ O projeto "Sistema de Coleta e Comunicação de Dados Usando ESP32 Integrado ao 
 
 ## 📁 Estrutura de pastas
 
-- **/docs** - Documentação do projeto
-- **/src** - Código-fonte e scripts
-- **/assets** - Imagens do circuito e diagrama de conexão
-- **README.md** - Descrição do projeto
+- **/docs/ir-alem-1** - Documentação do projeto
+- **/src/ir-alem-1** - Código-fonte e scripts
+- **/assets/ir-alem-1** - Imagens do circuito e diagrama de conexão
 
 ## 🔧 Como executar o Projeto
   1. Construir o projeto no WokWi, adicionando os componentes e carregando o código.
@@ -138,7 +135,7 @@ O projeto "Sistema de Coleta e Comunicação de Dados Usando ESP32 Integrado ao 
 
 ## 🎥 Demonstração
 
-Link para vídeo demonstrativo: [https://youtu.be/gSLD32WOulg]
+[Link para vídeo demonstrativo no Youtube](https://youtu.be/gSLD32WOulg)
 
 ## 📋 Licença
 
