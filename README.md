@@ -80,12 +80,15 @@ A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custo
      
   3. Selecionar as localidades de São Paulo e Virgínia do Norte;
   4. Registrar os valores de custo estimado;
+
+     
                  | Localidade        | Custo por Hora (USD) | Custo Armazenamento (50 GB) (USD) | Custo Mensal (USD) | Custo Anual (USD) |
                  |-------------------|---------------------:|----------------------------------:|-------------------:|------------------:|
                  | São Paulo         |              $0.0256 |                           $0.0058 |          $18,978   |       $227,736    |
                  | Virgínia do Norte |              $0.0188 |                           $0.0050 |          $13,974   |       $167,688    |
+
     
-  5. Comparar os custos mensais e anuais.
+  6. Comparar os custos mensais e anuais.
 
      ![graficocustos](https://github.com/Ioiofmanzali/FIAP-FASE5CAP1-FARMETCHBAERADACLOUDCOMPUTING/blob/main/assets/entrega2/graficocustos.png)(#)
       
