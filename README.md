@@ -61,19 +61,7 @@ Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o
 
 A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custos de implementação e hospedagem de um sistema baseado em nuvem, comparando São Paulo (Brasil) e Virgínia do Norte (EUA) e avaliando a opção mais vantajosa considerando tanto o custo financeiro quanto latência e Legislação vigente local. 
 
-
-
-
-
-
- Explicação clara da comparação de recursos com textos organizados.
- - Imagens ou gráficos que ilustrem os custos e as opções comparadas.
- - Justificativa final bem estruturada.
- - Link funcional para o vídeo no YouTube.
-
-
-
-## 💻 Tecnologias utilizadas
+ ## 💻 Tecnologias utilizadas
 [![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)](#).
 
 ## 📁 Estrutura de pastas
@@ -92,16 +80,16 @@ A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custo
      
   3. Selecionar as localidades de São Paulo e Virgínia do Norte;
   4. Registrar os valores de custo estimado;
-         | Localidade        | Custo Mensal (USD) | Custo Anual (USD) |
-  |------------------|------------------|------------------|
-  | São Paulo        | ██████████████ 18.978 | ██████████████████████████████████ 227.736 |
-  | Virgínia do Norte | █████████ 13.974 | ██████████████████████ 167.688 |
+                 | Localidade        | Custo por Hora (USD) | Custo Armazenamento (50 GB) (USD) | Custo Mensal (USD) | Custo Anual (USD) |
+                 |-------------------|---------------------:|----------------------------------:|-------------------:|------------------:|
+                 | São Paulo         |              $0.0256 |                           $0.0058 |          $18,978   |       $227,736    |
+                 | Virgínia do Norte |              $0.0188 |                           $0.0050 |          $13,974   |       $167,688    |
     
   5. Comparar os custos mensais e anuais.
 
      ![graficocustos](https://github.com/Ioiofmanzali/FIAP-FASE5CAP1-FARMETCHBAERADACLOUDCOMPUTING/blob/main/assets/entrega2/graficocustos.png)(#)
       
-   
+  - Justificativa final bem estruturada. 
 
 ## 🎥 Demonstração
 
