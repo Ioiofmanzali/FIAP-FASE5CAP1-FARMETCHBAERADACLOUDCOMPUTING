@@ -105,7 +105,7 @@ Considerando-se somente  o orçamento como a principal prioridade, Virginia do N
 No entanto, a decisão não se resume apenas ao custo. A latência, ou seja, o tempo de resposta do sistema, é um fator crucial, especialmente para aplicações que exigem acesso rápido aos dados e São Paulo oferece a vantagem de menor latência para usuários localizados no Brasil, o que pode ser determinante para garantir uma boa experiência do usuário e o desempenho adequado do sistema.
 **Considerando os requisitos legais e de acesso rápido como sendo demandas essenciais ao Projeto,  a hospedagem em São Paulo é a opção mais adequada, mesmo que isso implique em custos mais elevados.** 
 
-Obs: o relatório completo pode ser acessado prlo link a seguir: 
+Obs: o relatório completo pode ser acessado prlo link a seguir: [Relatório](https://github.com/Ioiofmanzali/FIAP-FASE5CAP1-FARMETCHBAERADACLOUDCOMPUTING/blob/main/assets/entrega2/Entrega_2.pdf)
 
 ## 🎥 Demonstração
 
