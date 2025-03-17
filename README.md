@@ -96,9 +96,11 @@ A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custo
 
      [Link AWS Latency Test](https://awsspeedtest.com/latency)
 
-  
+     ![latency](https://github.com/Ioiofmanzali/FIAP-FASE5CAP1-FARMETCHBAERADACLOUDCOMPUTING/blob/main/assets/entrega2/latencia.PNG)
          
-  - Justificativa final bem estruturada. 
+## Comentários finais
+
+Embora a opção de Virgínia do Norte ofereça uma economia significativa, a decisão final depende das necessidades específicas do projeto. Consideranso-se somente  o custo, a escolha americana é a mais vantajosa. No entanto, ao se acrescentar os fatores latência e conformidade legal, hospedar o sistema em São Paulo será a melhor escolha.
 
 ## 🎥 Demonstração
 
