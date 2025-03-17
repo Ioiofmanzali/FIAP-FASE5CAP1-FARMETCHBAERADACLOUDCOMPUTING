@@ -84,7 +84,7 @@ A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custo
 
 ## 🎥 Demonstração
 
-*[TODO: Adicionar link para vídeo demonstrativo no Youtube]*
+[Link para vídeo demonstrativo no Youtube](https://youtu.be/RSukZULjL6Q)
 
 ## 📋 Licença
 
