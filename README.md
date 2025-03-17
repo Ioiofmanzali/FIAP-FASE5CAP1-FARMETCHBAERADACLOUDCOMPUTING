@@ -88,10 +88,16 @@ A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custo
                  | Virgínia do Norte |              $0.0188 |                           $0.0050 |          $13,974   |       $167,688    |
 
     
-  6. Comparar os custos mensais e anuais.
+  5. Comparar os custos mensais e anuais.
 
      ![graficocustos](https://github.com/Ioiofmanzali/FIAP-FASE5CAP1-FARMETCHBAERADACLOUDCOMPUTING/blob/main/assets/entrega2/graficocustos.png)(#)
-      
+
+  6. Realizar o teste de latencia da AWS
+
+     [Link AWS Latency Test](https://awsspeedtest.com/latency)
+
+  
+         
   - Justificativa final bem estruturada. 
 
 ## 🎥 Demonstração
