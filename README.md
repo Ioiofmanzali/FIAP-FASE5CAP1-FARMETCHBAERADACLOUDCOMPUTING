@@ -71,16 +71,17 @@ A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custo
 
 ## 🔧 Como executar o Projeto
   1. Acessar  a AWS Pricing Cauculeto através do link [Link do site da AWS Calculator](https://calculator.aws/#/addService)
-  2. Configurar os recursos conforme especificado abaixo:
-     
+  2. Selecionar a opção “pesquisa por tipo de local”
+  3. Selecionar local e a região, número de CPUs (WorksSpaces = 2), Sistema Operacional (Linux) e pacotes conforme citado avaixo 
+  
                  *  2 CPUs
                  *  1 GiB de memória
                  *  Até 5 Gigabit de rede
                  *  50 GB de armazenamento (HD)
      
-  3. Selecionar as localidades de São Paulo e Virgínia do Norte;
-  4. Registrar os valores de custo estimado;
-
+  4. salvar o registro da primeira pesquisa e repetir o processo utilizando a segunda localização.
+  5. Selecionar os registros das duas regiões para análise dos resultados
+  6. Comparar os custos mensais e anuais.
      
                  | Localidade        | Custo por Hora (USD) | Custo Armazenamento (50 GB) (USD) | Custo Mensal (USD) | Custo Anual (USD) |
                  |-------------------|---------------------:|----------------------------------:|-------------------:|------------------:|
@@ -88,11 +89,10 @@ A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custo
                  | Virgínia do Norte |              $0.0188 |                           $0.0050 |          $13,974   |       $167,688    |
 
     
-  5. Comparar os custos mensais e anuais.
 
      ![graficocustos](https://github.com/Ioiofmanzali/FIAP-FASE5CAP1-FARMETCHBAERADACLOUDCOMPUTING/blob/main/assets/entrega2/graficocustos.png)(#)
 
-  6. Realizar o teste de latencia da AWS
+  7. Realizar o teste de latencia da AWS
 
      [Link AWS Latency Test](https://awsspeedtest.com/latency)
 
@@ -100,7 +100,10 @@ A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custo
          
 ## Comentários finais
 
-Embora a opção de Virgínia do Norte ofereça uma economia significativa, a decisão final depende das necessidades específicas do projeto. Consideranso-se somente  o custo, a escolha americana é a mais vantajosa. No entanto, ao se acrescentar os fatores latência e conformidade legal, hospedar o sistema em São Paulo será a melhor escolha.
+A escolha entre hospedar o sistema em Virgínia do Norte ou São Paulo requer uma análise cuidadosa. Se por um lado, a Virgínia do Norte se apresenta como a opção mais econômica, oferecendo custos operacionais mais baixos, São Paulo oferece a vantagem de uma baixa latência para usuários localizados no Brasil. Além disso, considerações regulatórias podem influenciar a escolha. Em alguns casos, pode haver restrições  locais legais que exigem tratamento e armazenamento rigoroso, principalmente no que tange aos dados sensíveis dos usuários.  
+Considerando-se somente  o orçamento como a principal prioridade, Virginia do Norte pode ser a mais atraente. 
+No entanto, a decisão não se resume apenas ao custo. A latência, ou seja, o tempo de resposta do sistema, é um fator crucial, especialmente para aplicações que exigem acesso rápido aos dados e São Paulo oferece a vantagem de menor latência para usuários localizados no Brasil, o que pode ser determinante para garantir uma boa experiência do usuário e o desempenho adequado do sistema.
+**Considerando os requisitos legais e de acesso rápido como sendo demandas essenciais ao Projeto,  a hospedagem em São Paulo é a opção mais adequada, mesmo que isso implique em custos mais elevados.** 
 
 ## 🎥 Demonstração
 
