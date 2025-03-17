@@ -6,7 +6,7 @@
 
 <br>
 
-# PROJETO FASE 5: MACHINE LEARNING NA CABEÇA
+# ENTERPRISE CHALLENGE: SPRINT 1 INGREDION
  ![mlnacabeca](./assets/mlbacabeca.jpeg)
 
 ## Grupo 15
@@ -24,38 +24,41 @@
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/company/inova-fusca">Andre Godoi Chaviato</a>
 
-# ENTREGA 1
+# ENTREGA 1: DATASET DE IMAGENS SATVEG
 
 ## 📜 Descrição
-A Entrega 1 foca na análise de dados agrícolas usando ML supervionado e não supervisionado para precisao de produtividade agricola utilizando o dataset 'yeld_crop.csv'.
 
-## 💻 Tecnologias utilizadas
+A Entrega 1 Sprint 1 da Fase 5 propõe a exploração da plataforma SATVEG da Embrapa e compreensão de suas funcionalidades e apresentação de relatório em .pdf com os seguintes elementos: 
+ * prints do talhão agricultável da cidade/região escolhida, detalhando o tipo de grafico escolhido e seu comportamento;
+ * contextualizando NVDI;
+ * contextualizando a região selecionada;
+ * prints dos botões da plataforma e descrição de funcionalidades e objetivos;
+ * apontamento da funcionalidade da plataforma que mais se destacou.
+ 
+ ## 💻 Tecnologias utilizadas
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](#)
 
 ## 📁 Estrutura de pastas
 
 - **/docs/entrega_1** - Documentação do projeto
-- **/src/entrega_1** - Código-fonte e scripts
-- **/assets/entrega_1** - Base de dados
+- **/assets/entrega_1** - Prints das Imagens
 
 ## 🔧 Como executar o Projeto
-  1. Acessar o notebook do Google Colab atraves do link fornecido a seguir: [Link Entrega 1](https://colab.research.google.com/drive/1mGIY150CzsRO05xwk_pjD1t94CauImdd?usp=sharing)
-  2. Selecione no  campo 'Ambiente de execução" o modo para executar o código.
+  1. Acesse o site do SATVeg atraves do Link [SATVEG](https://www.satveg.cnptia.embrapa.br/)  
+  2. Utilizando a interface do mapa bavegue até a região selecionada para a qual se deseja coletar os dados de NDVI.
+     obs: outras formas de pesquisar um local especifico incluem usar a barra de pesquisa ou inserir coordenadas geográficas.
+  3. Selecione o ponto de interesse e será exibido um grafico com a serie histórica do NVDI para o local selecionado.
+    obs: o quadrado que aparece no mapa represetna o pixel do sensor MODIS
+  4. Visualize o gráfico da série histórica e faça os prints das telas.
 
-     * Observação: link do notebook com acesso restrito a leitura do código
-
-## 🎥 Demonstração
-
-[Link para vídeo demonstrativo no Youtube](https://youtu.be/Q5CVTFYaELo)
-
+Para informações mais completas e detalhadas consulte a pagina do [tutorial](https://www.satveg.cnptia.embrapa.br/satveg/pages/tutoriais.html) e da [documentação do Sistema SATVEG](Sistema de Análise Temporal da Vegetação - SATVeg - AVALIAÇÃO DOS IMPACTOS DAS TECNOLOGIAS GERADAS PELA EMBRAPA)
+    
 ## 📋 Licença
 
 Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE no repositório.
 
 ---
-# ENTREGA 2 
+# ENTREGA 2 DATASET AGRODADOS IBGE
 
 ## 📜 Descrição
 
