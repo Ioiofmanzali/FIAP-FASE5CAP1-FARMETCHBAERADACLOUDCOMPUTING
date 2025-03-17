@@ -93,6 +93,8 @@ A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custo
   3. Selecionar as localidades de São Paulo e Virgínia do Norte;
   4. Registrar os valores de custo estimado;
   5. Comparar os custos mensais e anuais.
+
+     ![graficocustos](https://github.com/Ioiofmanzali/FIAP-FASE5CAP1-FARMETCHBAERADACLOUDCOMPUTING/blob/main/assets/entrega2/graficocustos.png)(#)
       
    
 
