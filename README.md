@@ -59,7 +59,19 @@ Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o
 
 ## 📜 Descrição
 
-A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custos de uma instância Linux On-Demand (100%), comparando os preços entre as regiões de São Paulo (BR) e Virgínia do Norte (EUA) e identificando a opção mais econômica, considerando que a máquina será responsável por hospedar uma API que recebe dados de sensores e executa um modelo de Machine Learning relacionado à Entrega 1.
+A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custos de implementação e hospedagem de um sistema baseado em nuvem, comparando São Paulo (Brasil) e Virgínia do Norte (EUA) e avaliando a opção mais vantajosa considerando tanto o custo financeiro quanto latência e Legislação vigente local. 
+
+
+
+
+
+
+ Explicação clara da comparação de recursos com textos organizados.
+ - Imagens ou gráficos que ilustrem os custos e as opções comparadas.
+ - Justificativa final bem estruturada.
+ - Link funcional para o vídeo no YouTube.
+
+
 
 ## 💻 Tecnologias utilizadas
 [![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)](#).
@@ -71,16 +83,18 @@ A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custo
 
 ## 🔧 Como executar o Projeto
   1. Acessar  a AWS Pricing Cauculeto através do link [Link do site da AWS Calculator](https://calculator.aws/#/addService)
-  2. Selecione as configurações necessárias para as regiões São Paulo (BR) e Virginia do Norte (EUA), conforme a descrição da atividade
-     ### Componentes:
+  2. Configurar os recursos conforme especificado abaixo:
      
                  *  2 CPUs
                  *  1 GiB de memória
                  *  Até 5 Gigabit de rede
                  *  50 GB de armazenamento (HD)
      
-  3. Salvar dos dados e realizar as devidas análises dos valores 
-
+  3. Selecionar as localidades de São Paulo e Virgínia do Norte;
+  4. Registrar os valores de custo estimado;
+  5. Comparar os custos mensais e anuais.
+      
+   
 
 ## 🎥 Demonstração
 
