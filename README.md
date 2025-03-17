@@ -70,7 +70,7 @@ A Entrega 2 consiste na utilização da calculadora da AWS para estimar os custo
 - **/assets/entrega_2** - Relatórios de Preços Orçados
 
 ## 🔧 Como executar o Projeto
-  1. Acessar  a AWS Pricing Cauculeto através do link [https://calculator.aws/#/addService]
+  1. Acessar  a AWS Pricing Cauculeto através do link [Link do site da AWS Cslculator](https://calculator.aws/#/addService)
   2. Selecione as configurações necessárias para as regiões São Paulo (BR) e Virginia do Norte (EUA), conforme a descrição da atividade
      ### Componentes:
      
